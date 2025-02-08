@@ -1,6 +1,7 @@
 def grams_to_ounces(grams):
     return 28.3495231 * grams
 #Конвертация граммов в унции
+print(grams_to_ounces(5))
 
 
 def fahrenheit_to_celsius(fahrenheit):
